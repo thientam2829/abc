@@ -1,0 +1,16 @@
+D:\PROJECT\app1\app1\bin\Debug\net6.0\app1.exe
+D:\PROJECT\app1\app1\bin\Debug\net6.0\app1.deps.json
+D:\PROJECT\app1\app1\bin\Debug\net6.0\app1.runtimeconfig.json
+D:\PROJECT\app1\app1\bin\Debug\net6.0\app1.dll
+D:\PROJECT\app1\app1\bin\Debug\net6.0\ref\app1.dll
+D:\PROJECT\app1\app1\bin\Debug\net6.0\app1.pdb
+D:\PROJECT\app1\app1\obj\Debug\net6.0\app1.GlobalUsings.g.cs
+D:\PROJECT\app1\app1\obj\Debug\net6.0\app1.csproj.AssemblyReference.cache
+D:\PROJECT\app1\app1\obj\Debug\net6.0\app1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\app1\app1\obj\Debug\net6.0\app1.AssemblyInfoInputs.cache
+D:\PROJECT\app1\app1\obj\Debug\net6.0\app1.AssemblyInfo.cs
+D:\PROJECT\app1\app1\obj\Debug\net6.0\app1.csproj.CoreCompileInputs.cache
+D:\PROJECT\app1\app1\obj\Debug\net6.0\app1.dll
+D:\PROJECT\app1\app1\obj\Debug\net6.0\ref\app1.dll
+D:\PROJECT\app1\app1\obj\Debug\net6.0\app1.pdb
+D:\PROJECT\app1\app1\obj\Debug\net6.0\app1.genruntimeconfig.cache

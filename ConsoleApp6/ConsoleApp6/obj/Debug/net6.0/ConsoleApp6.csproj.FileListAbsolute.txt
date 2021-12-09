@@ -1,0 +1,16 @@
+D:\PROJECT\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.exe
+D:\PROJECT\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.deps.json
+D:\PROJECT\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+D:\PROJECT\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.dll
+D:\PROJECT\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ref\ConsoleApp6.dll
+D:\PROJECT\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.pdb
+D:\PROJECT\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.GlobalUsings.g.cs
+D:\PROJECT\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+D:\PROJECT\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\PROJECT\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+D:\PROJECT\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\PROJECT\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.dll
+D:\PROJECT\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ref\ConsoleApp6.dll
+D:\PROJECT\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.pdb
+D:\PROJECT\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache

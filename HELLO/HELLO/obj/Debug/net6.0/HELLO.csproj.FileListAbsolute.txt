@@ -1,0 +1,16 @@
+D:\PROJECT\HELLO\HELLO\bin\Debug\net6.0\HELLO.exe
+D:\PROJECT\HELLO\HELLO\bin\Debug\net6.0\HELLO.deps.json
+D:\PROJECT\HELLO\HELLO\bin\Debug\net6.0\HELLO.runtimeconfig.json
+D:\PROJECT\HELLO\HELLO\bin\Debug\net6.0\HELLO.dll
+D:\PROJECT\HELLO\HELLO\bin\Debug\net6.0\ref\HELLO.dll
+D:\PROJECT\HELLO\HELLO\bin\Debug\net6.0\HELLO.pdb
+D:\PROJECT\HELLO\HELLO\obj\Debug\net6.0\HELLO.GlobalUsings.g.cs
+D:\PROJECT\HELLO\HELLO\obj\Debug\net6.0\HELLO.csproj.AssemblyReference.cache
+D:\PROJECT\HELLO\HELLO\obj\Debug\net6.0\HELLO.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\HELLO\HELLO\obj\Debug\net6.0\HELLO.AssemblyInfoInputs.cache
+D:\PROJECT\HELLO\HELLO\obj\Debug\net6.0\HELLO.AssemblyInfo.cs
+D:\PROJECT\HELLO\HELLO\obj\Debug\net6.0\HELLO.csproj.CoreCompileInputs.cache
+D:\PROJECT\HELLO\HELLO\obj\Debug\net6.0\HELLO.dll
+D:\PROJECT\HELLO\HELLO\obj\Debug\net6.0\ref\HELLO.dll
+D:\PROJECT\HELLO\HELLO\obj\Debug\net6.0\HELLO.pdb
+D:\PROJECT\HELLO\HELLO\obj\Debug\net6.0\HELLO.genruntimeconfig.cache
